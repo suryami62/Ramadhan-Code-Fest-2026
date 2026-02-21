@@ -7,6 +7,9 @@
 [submodule "malasfetch"]
         path = malasfetch
         url = https://github.com/broman0x/malasfetch.git
+[submodule "Sholat-CLI"]
+	path = Sholat-CLI
+	url = https://github.com/Kechenk/Sholat-CLI.git
 [submodule "gamelaneka"]
         path = gamelaneka
         url = https://github.com/dendik-creation/gamelaneka
@@ -34,3 +37,30 @@
 [submodule "Ai-On-TelegramBot"]
         path = Ai-On-TelegramBot
         url = https://github.com/Gustyx-Power/Ai-On-TelegramBot.git
+[submodule "Indobe-Bank-e-Money-Indonesia-WordPress-Plugin"]
+	path = Indobe-Bank-e-Money-Indonesia-WordPress-Plugin
+	url = https://github.com/reynaldiarya/Indobe-Bank-e-Money-Indonesia-WordPress-Plugin.git
+[submodule "Keyword-Rank-Tracker"]
+	path = Keyword-Rank-Tracker
+	url = https://github.com/reynaldiarya/Keyword-Rank-Tracker.git
+[submodule "WAFleet"]
+	path = WAFleet
+	url = https://github.com/reynaldiarya/WAFleet.git
+[submodule "SEO-Sitemap-Discovery"]
+	path = SEO-Sitemap-Discovery
+	url = https://github.com/reynaldiarya/SEO-Sitemap-Discovery.git
+[submodule "Internet-Asset-Manager-Filament"]
+	path = Internet-Asset-Manager-Filament
+	url = https://github.com/Akselerasi-Prima-Digital/Internet-Asset-Manager-Filament.git
+[submodule "Flip-for-Business-PHP"]
+	path = Flip-for-Business-PHP
+	url = https://github.com/Akselerasi-Prima-Digital/Flip-for-Business-PHP.git
+[submodule "shoppingcart"]
+	path = shoppingcart
+	url = https://github.com/Nipaaaa1/shoppingcart.git
+[submodule "gov-wtf"]
+	path = gov-wtf
+	url = https://github.com/euxzy/gov-wtf.git
+[submodule "imalrightjack-bot"]
+	path = imalrightjack-bot
+	url = https://github.com/bbeetlesam/imalrightjack-bot
