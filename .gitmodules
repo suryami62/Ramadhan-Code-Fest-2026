@@ -64,3 +64,6 @@
 [submodule "imalrightjack-bot"]
 	path = imalrightjack-bot
 	url = https://github.com/bbeetlesam/imalrightjack-bot
+[submodule "bot-nganggur"]
+	path = bot-nganggur
+	url = https://github.com/fdvky1/bot-nganggur.git
