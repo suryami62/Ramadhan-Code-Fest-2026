@@ -73,3 +73,18 @@
 [submodule "MamboSU"]
 	path = MamboSU
 	url = https://github.com/RapliVx/KernelSU.git
+[submodule "auriya"]
+	path = auriya
+	url = https://github.com/pavelc4/auriya.git
+[submodule "Rin"]
+	path = Rin
+	url = https://github.com/pavelc4/Rin.git
+[submodule "pixtify"]
+	path = pixtify
+	url = https://github.com/pavelc4/pixtify.git
+[submodule "aether-tg-bot"]
+	path = aether-tg-bot
+	url = https://github.com/pavelc4/aether-tg-bot.git
+[submodule "yume-go"]
+	path = yume-go
+	url = https://github.com/pavelc4/yume-go.git
